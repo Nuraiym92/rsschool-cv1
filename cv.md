@@ -4,7 +4,7 @@
 2.e-mail:nuraiym.zhyrgalbekova.kk@gmail.com
 ##About me
 My name is Nuraiym. I am 29 years old.I have graduated finance and banking department. Right now I am interested in IT.
-<!-- ##Skills:
+##Skills:
 1.HTML
 2.CSS
 3.JS
@@ -22,7 +22,7 @@ var truncateSentence = function(s, k) {
         i--;
     }
 return arr.join(" ");
-};
+}; -->
 ##Experience:
 1.www.erkinish.kg
 2.https://github.com/New-Republic/orion
